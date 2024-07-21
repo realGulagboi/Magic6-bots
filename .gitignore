@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Enviroment Files
+*.env
+
+# Python Files
+__pycache/
+dev/

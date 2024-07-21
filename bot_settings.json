@@ -1,0 +1,12 @@
+{
+    "reactionRolesChannel": 1250894712173232128,
+    "LobbyAdminRoleId": 1250012570241339392,
+    "LobbyAdminTrialRoleId": 1263467401362673726,
+    "officialEventEmoji": ":orange_square:",
+    "unofficialEventEmoji": ":blue_square: ",
+    "reactionRolesDictionary": {
+        "official": "Official-Event-Ping",
+        "unofficial": "Unofficial-Event-Ping"
+    },
+    "reactionMessageId": 1264393083919794307
+}
